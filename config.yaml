@@ -1,7 +1,7 @@
 options:
   admins:
     type: string
-    default: ""
+    default: "tom1"
     description: | 
       Comma separated list of usernames who should be an admin. eg: "codinghorror,sam,eviltrout"
   repository:
